@@ -6,5 +6,5 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/members/home"
+    "start_url": "https://www.ohgi.com/onboarding/login"
   }
